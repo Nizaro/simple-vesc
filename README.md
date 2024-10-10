@@ -3,7 +3,7 @@
 Simple Vesc is a librairy aiming to simplify the usage of Vedder's Vesc command.
 
 ## command format
-The general command format is:
+The general command format is:  
 begin + cmd_size + cmd + check_val + end  
 with : 
 ### The bytes for begin and end :
